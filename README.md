@@ -21,6 +21,10 @@ Use Extensions
 
 https://extensions.blender.org/
 
+### v1.0.3 ###
+
+Added Scale buttons
+Added Ctrl+key to subtract selection
 
 ### v1.0 ###
 
