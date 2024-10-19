@@ -2,9 +2,9 @@
 
 I couldn't find this functionality in Blender, so I made this addon for the Graph Editor to solve it. It filters X, Y, Z for both Translations and Euler Rotations.
 
-Note that this doesn't work for Quaternion, and I didn't add scales as those are things that you usually don't need this type of behavior for. There's room to add them, and probably in a future version, I will make a button to search for attributes with the same name to cover those or other special attributes shared between different controls.
+Note that this doesn't work for Quaternion rotations.
 
-You can use hide and unhide hotkeys instead of buttons, made them for Maya users who are not familiar with hotkeys. You can use Shift key to make multiple selections.
+You can use hide and unhide hotkeys instead of buttons, made them for users who are not familiar with hotkeys. You can use Shift key to make multiple selections and Ctrl to subtract multiple selections.
 
 
 # HOW TO INSTALL
