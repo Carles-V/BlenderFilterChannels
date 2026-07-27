@@ -19,7 +19,7 @@ Search for the "FilterChannels_Addon_v01.py" you downloaded, Install addon and t
 
 Use Extensions 
 
-https://extensions.blender.org/
+[https://extensions.blender.org/](https://extensions.blender.org/add-ons/cv-filter-channels/)
 
 ### v1.0.3 ###
 
