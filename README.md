@@ -21,6 +21,32 @@ Use Extensions
 
 [https://extensions.blender.org/](https://extensions.blender.org/add-ons/cv-filter-channels/)
 
+### v1.0.9 ###
+Added Compact Mode with colors as suggested by jametc.
+Enable it through: Edit → Preferences → Add-ons → Filter Channels
+Fixed and improved minor internal code.
+
+### v1.0.8 ###
+Fixed some errors when Reset and Unselect channels were called but there was no channel
+
+### v1.0.7 ###
+Added support for new action slots (blender +4.4)
+
+### v1.0.6 ###
+-Added support for Blender 4.4 -Fixed invoke error
+
+### v1.0.5 ###
+Added quaternion rotations options through addon preferences (Edit/Preferences/Add-ons/Filter Channels).
+
+### v1.0.4 ###
+Fixes bad naming and website
+
+-Previous release
+
+Added Scale buttons
+
+Added Ctrl+key to subtract selection
+
 ### v1.0.3 ###
 
 Added Scale buttons
